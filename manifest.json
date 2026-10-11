@@ -34,7 +34,7 @@
         "blob/f58fe278cc54373f31cc62878526a4d034cc6da9.nq.gz"
       ],
       "ast": [
-        "aggregate/ast/fba58a43980385019ceb593f88ab8821e17840c0"
+        "aggregate/ast/fba58a43980385019ceb593f88ab8821e17840c0/chunk-001.nq.gz"
       ],
       "lsp": "aggregate/lsp/fba58a43980385019ceb593f88ab8821e17840c0.nq.gz",
       "repolex": "aggregate/repolex/fba58a43980385019ceb593f88ab8821e17840c0",
